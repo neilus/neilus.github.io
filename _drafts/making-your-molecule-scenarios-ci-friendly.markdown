@@ -2,7 +2,6 @@
 layout: post
 title: Make Your Molecule Scenarios CI-friendly
 lang: en
-date: 2018-01-10 17:07:00 +01:00
 ref: smart
 categories: DevOps Ansible molecule testing tool framework
 ---
